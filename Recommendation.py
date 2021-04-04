@@ -1,13 +1,12 @@
 import pandas as pd
-import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import random
 
-def get_title_from_index(index):
+def index(index):
         return df[df.index == index]["title"].values[0]
 
-def get_index_from_title(title):
+def title(title):
         return df[df.title == title]["index"].values[0]
 
 df = pd.read_csv("Dataset.csv")
@@ -38,18 +37,20 @@ user = (dict[movie])
 
 print("\nMovie user likes:",user)
 
-movie_user_likes = user
+chosen_movie = user
 
 print("\nTop 10 Recommended movies to the user:")
-movie_index = get_index_from_title(movie_user_likes)
+movie_index = title(chosen_movie)
 
 similar_movies =  list(enumerate(cosine_sim[movie_index]))
 
-sorted_similar_movies = sorted(similar_movies,key=lambda x:x[1],reverse=True)
+movies = sorted(similar_movies,key=lambda x:x[1],reverse=True)
 
 i=0
-for element in sorted_similar_movies:
-        print(get_title_from_index(element[0]))
+for element in movies:
+        print(index(element[0]))
         i=i+1
         if i>10:
                 break
+        else:
+                pass
