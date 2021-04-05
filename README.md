@@ -53,7 +53,7 @@ Completely free, just fork and use! ;)
 <!-- CONTRIBUTIONS -->
 ## Contributions
 
-**Movie Icon:** <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a>
+**Movie Icon:** <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a><br>
 **Movie Dataset Contribution:** <a href = "https://github.com/MahnoorJaved98/Movie-Recommendation-System/blob/main/movie_dataset.csv">MahnoorJaved98</a>
 
 <!-- CONTACT -->
