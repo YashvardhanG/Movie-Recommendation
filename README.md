@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Yashvardhang/Movie-Recommendation-Software">
-    <img src="Images/movie.svg" alt="Logo" width="80" height="80">
+    <img src="movie.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Movie Recommendation Software</h3>
