@@ -20,8 +20,9 @@
   <ol>
     <li><a href="#working">How it works?</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contributions">Contributions</a></li>
+    <li><a href="#contribute">Contribute</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -34,10 +35,11 @@ This project was completely made using Sklearn and Python.
 
 Pre-Requisite Python Modules Required:
 
- > pip install pandas <br>
- > pip install sklearn <br>
- > pip install scikit-learn <br>
-
+```
+ > pip install pandas
+ > pip install sklearn
+ > pip install scikit-learn
+```
 To use this software, 
 
 <ol>
@@ -48,13 +50,21 @@ To use this software,
 <!-- LICENSE -->
 ## License
 
-Completely free, just fork and use! ;)
+Distributed under the MIT License See <a href = "https://github.com/YashvardhanG/Movie-Recommendation/blob/main/LICENSE"> LICENSE </a> for more information.
 
-<!-- CONTRIBUTIONS -->
-## Contributions
+<!-- contribute -->
+## Contribute
 
-**Movie Icon:** <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a><br>
-**Movie Dataset Contribution:** <a href = "https://github.com/MahnoorJaved98/Movie-Recommendation-System/blob/main/movie_dataset.csv">MahnoorJaved98</a>
+Every program is ever evolving and, that is possible only with valuable contributions. Any contributions you make are greatly appreciated. 
+<ol>
+  <li>Fork the Project</li>
+  <li>Create your Feature Branch (git checkout -b functionalities/Feature)</li>
+  <li>Commit your Changes (git commit -m 'Add a Feature')</li>
+  <li>Push to the Branch (git push origin functionalities/Feature)</li>
+  <li>Open a Pull Request</li>
+</ol>
+
+<br>If you have any further ideas or comments, go ahead to the next section and feel free to connect! 
 
 <!-- CONTACT -->
 ## Contact
@@ -63,4 +73,12 @@ Completely free, just fork and use! ;)
   <img src="https://github.com/YashvardhanG/YashvardhanG/blob/main/Spiral%20Cosmos.png" alt="Logo" width="155" height="140"><br><br>
   <a href = "https://www.spiralcosmos.com">Spiral Cosmos</a>
 </p>
+
+<!-- Acknowledgement -->
+## Acknowledgements
+
+<ul>
+  <li><a href = "https://www.flaticon.com/authors/pixel-perfect">Pixel perfect</a></li>
+  <li><a href = "https://github.com/MahnoorJaved98/Movie-Recommendation-System/blob/main/movie_dataset.csv">MahnoorJaved98</a></li>
+</ul>
 
