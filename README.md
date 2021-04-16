@@ -50,7 +50,7 @@ To use this software,
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License See <a href = "https://github.com/YashvardhanG/Movie-Recommendation/blob/main/LICENSE"> LICENSE </a> for more information.
+Distributed under the MIT License. See <a href = "https://github.com/YashvardhanG/Movie-Recommendation/blob/main/LICENSE"> LICENSE </a> for more information.
 
 <!-- contribute -->
 ## Contribute
